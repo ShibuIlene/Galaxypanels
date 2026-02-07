@@ -1,6 +1,5 @@
 import React from 'react'
 import './Contact.css'
-import contactImg from '../../Assets/contact-img.png'
 import mailImg from '../../Assets/mail.png'
 import phoneImg from '../../Assets/phone.png'
 import addressImg from '../../Assets/address.png'
@@ -35,7 +34,7 @@ export const Contact = () => {
   return (
     <div className="contact" >
             <div className="contact-col">
-                <h3>Send us a message <img src={contactImg} alt="" /></h3>
+                <h3>Send us a message </h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque consequuntur placeat cum sint fugit mollitia voluptatem minima rem pariatur voluptatibus!</p>
                 <ul>
                     <li>

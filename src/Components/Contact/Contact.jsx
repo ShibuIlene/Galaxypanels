@@ -1,6 +1,6 @@
 import React from 'react'
 import './Contact.css'
-import contactImg from '../../assets/contact.png
+import contactImg from '../../assets/contact-img.png
 import mailImg from '../../assets/mail.png'
 import phoneImg from '../../assets/phone.png'
 import addressImg from '../../assets/address.png'
